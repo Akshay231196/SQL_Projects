@@ -1,0 +1,101 @@
+property_id,property_name,address,city,type,units_total,year_built,manager_id,parking_ratio,has_gym,has_pool
+P0001,Howard LLC,"38808 Jennifer Street, New Timothyshire, WY 33229",Vancouver,Office,122,2013,M028,1.54,No,Yes
+P0002,Smith-Johnson,"97325 Beard Parkways Suite 605, Thomasfort, GA 48876",Montreal,Condo,112,2006,M025,1.08,Yes,Yes
+P0003,Mathews Inc,"5046 Anita Avenue Apt. 574, Barrmouth, NJ 82786",Toronto,Retail,34,1978,M046,1.91,No,No
+P0004,Singh-Johnson,"2944 Zuniga Shoal, Gillespiebury, UT 21636",Montreal,Apartment,126,2004,M026,0.71,Yes,Yes
+P0005,Franklin-Wang,"457 Lori Dale, Patricktown, MA 75156",Toronto,Condo,91,2011,M018,1.01,No,Yes
+P0006,Curry-Walton,"1533 Paul Course Suite 880, Westborough, AK 80634",Calgary,Office,40,1997,M037,0.67,Yes,No
+P0007,Perry-Oneal,"49768 Horn Centers, New Thomas, MD 29286",Montreal,Apartment,122,2013,M035,1.89,No,Yes
+P0008,Wilkinson Inc,"16863 Peter Trail, North Patricia, OR 55530",Vancouver,Retail,141,2019,M041,1.82,Yes,No
+P0009,Carney LLC,"23635 Rodriguez Hills, West Alice, NY 69872",Toronto,Apartment,94,1989,M011,0.89,Yes,No
+P0010,"Frazier, Harrison and Martin","021 Tabitha Lodge, Lake Christophertown, WA 26956",Ottawa,Apartment,107,2017,M021,1.49,No,No
+P0011,Garcia LLC,"6376 Taylor Dam Suite 804, Jamesshire, DE 97943",Ottawa,Retail,136,2003,M047,1.73,Yes,No
+P0012,"Trujillo, Hicks and Dorsey","21630 David Glen, East Troy, NH 10012",Toronto,Apartment,119,2010,M024,1.33,Yes,Yes
+P0013,Wyatt-Gonzalez,"076 Todd Ports Suite 245, Patrickbury, ND 91123",Montreal,Apartment,123,1987,M038,1.29,No,Yes
+P0014,Schaefer-Huynh,"990 Brown Wells Suite 995, West Donna, KY 96536",Calgary,Office,72,2006,M024,0.86,Yes,Yes
+P0015,Ross Ltd,"66354 Lane Turnpike Apt. 960, East Jasonland, CO 16052",Vancouver,Retail,21,1981,M030,0.64,Yes,Yes
+P0016,Golden-Greer,"874 Jessica Corner Apt. 516, Lake Patriciaview, WV 36428",Calgary,Condo,107,1996,M036,1.85,Yes,No
+P0017,"Parker, Andrews and Wood","0401 Jennifer Circles Apt. 819, Mcclureview, CT 13516",Calgary,Office,57,2002,M044,1.85,No,No
+P0018,Ortiz Group,"01803 Hall Ford Apt. 794, Karenchester, KY 36189",Ottawa,Apartment,149,1976,M031,1.45,No,Yes
+P0019,"Novak, Lee and Klein","USNS Mccarty, FPO AA 45276",Toronto,Office,40,2016,M006,1.01,No,Yes
+P0020,Rice-Anderson,"81068 Erickson Trail, Port Matthew, MI 03849",Toronto,Office,77,2019,M034,1.02,Yes,No
+P0021,Ramirez-Wright,"13164 Travis Trafficway, South Kathleenview, WY 79810",Calgary,Apartment,41,1980,M019,1.59,No,Yes
+P0022,Nguyen-Powell,"9550 Mark Circle Apt. 679, Camposchester, IA 63882",Ottawa,Retail,108,2002,M046,1.85,No,Yes
+P0023,Cox Group,"3873 Oconnor Centers, West Jon, NY 38379",Montreal,Retail,68,2002,M027,1.83,Yes,No
+P0024,"Wagner, Pruitt and Liu","6687 Williams Plaza Apt. 625, Port Carlabury, RI 47894",Calgary,Office,78,2018,M042,1.67,Yes,No
+P0025,"Branch, Solis and Salazar","19517 Arnold Plaza, Port Brandonbury, OH 41259",Toronto,Retail,34,2018,M025,1.46,No,Yes
+P0026,Cole Inc,"87162 Karen Knoll Apt. 646, New Lauren, OH 61475",Montreal,Condo,70,1994,M048,0.63,Yes,No
+P0027,"Brown, Gomez and Moran","364 Christian Mission, Cynthiamouth, CT 51348",Toronto,Apartment,127,2004,M045,0.74,No,Yes
+P0028,"Johnson, Barajas and Fisher","8733 Martinez Glen Apt. 023, Huynhmouth, MT 12445",Calgary,Condo,74,1985,M035,1.85,Yes,No
+P0029,Smith and Sons,"Unit 5198 Box 3182, DPO AA 79927",Montreal,Condo,83,2002,M004,1.41,Yes,No
+P0030,"Tapia, Hayes and Mueller","277 Cheryl Greens, West Jonathan, IA 32976",Calgary,Retail,70,1999,M039,0.51,No,No
+P0031,Flynn and Sons,"7836 Sanchez Extensions, New Lawrenceton, IN 70379",Montreal,Condo,40,2013,M049,0.65,Yes,Yes
+P0032,Robbins and Sons,"99959 Butler River, East Carrie, CT 40119",Ottawa,Office,92,2007,M046,1.5,Yes,Yes
+P0033,"Kirby, Robles and Snow","878 Melissa Forest, Smithtown, CA 63440",Toronto,Apartment,37,1975,M036,0.51,No,Yes
+P0034,Collins-Rodgers,"57607 Tabitha Alley Apt. 115, South Claire, GA 38276",Toronto,Condo,108,2001,M004,0.74,No,Yes
+P0035,"Miranda, Odonnell and White","91199 Mitchell Mills Apt. 015, South Brittany, OH 23756",Calgary,Condo,79,1987,M045,1.32,Yes,No
+P0036,Neal-Castillo,"PSC 8506, Box 0349, APO AP 05380",Calgary,Apartment,33,2015,M013,1.54,No,Yes
+P0037,"Yang, Rivera and Norris","27542 Perez Creek, West Nicholastown, SD 64567",Montreal,Retail,28,1977,M033,1.48,Yes,Yes
+P0038,"Fowler, Ibarra and Pierce","467 Fischer Ramp Apt. 757, Shannonmouth, MA 66432",Toronto,Retail,109,2013,M014,0.84,No,No
+P0039,"Robinson, Castillo and Fitzgerald","9769 Nichols Crossing Apt. 024, New Brianbury, CA 56062",Calgary,Apartment,72,1980,M047,1.57,Yes,Yes
+P0040,Ward Ltd,"966 King Views Suite 932, East John, HI 88470",Toronto,Office,149,1982,M036,0.86,No,No
+P0041,French Group,"2530 Keith Point, Port Bryanbury, MA 70721",Vancouver,Office,103,2001,M049,0.99,No,Yes
+P0042,"Meza, Ellis and Jones","5046 Johnson Plains, Russellshire, NE 60775",Toronto,Retail,111,1983,M030,1.62,Yes,No
+P0043,Lambert-Knight,"292 Kristy Junction Suite 683, Lake Donaldtown, WA 59841",Montreal,Office,130,2011,M041,1.47,No,Yes
+P0044,"Simpson, Collins and Phelps","39206 Katherine Mill, Adamsfort, MD 36870",Toronto,Office,27,2007,M031,1.77,No,No
+P0045,"Henson, Hayes and Diaz","5662 Willie Crescent Apt. 539, New Jenna, ND 31498",Montreal,Condo,54,2016,M033,1.49,Yes,No
+P0046,Schneider-Brown,"755 Estes Ville Suite 674, East Marcus, AR 56276",Toronto,Retail,100,2018,M017,1.35,Yes,Yes
+P0047,Cole PLC,"986 Farmer Manors, New Andrew, ND 41430",Calgary,Condo,69,1998,M038,0.64,No,Yes
+P0048,Rodriguez-Odom,"188 Daniel Port, Lake Jeffrey, MN 03292",Toronto,Condo,123,1989,M009,1.05,No,Yes
+P0049,Bailey-Smith,"0390 Pugh Rapid, Cliffordview, KS 74930",Vancouver,Condo,21,2006,M009,0.9,No,Yes
+P0050,"Lynch, Perkins and Garza","6623 Marks Row Apt. 236, North Jackmouth, NE 48603",Toronto,Condo,73,2006,M034,0.87,No,Yes
+P0051,"Mills, Ellis and Smith","15072 Gregory Isle Suite 014, New Mary, IL 61749",Calgary,Office,125,1998,M001,1.96,No,Yes
+P0052,Moreno Inc,"8170 Karen Manors Suite 981, Sarahfort, OR 73258",Vancouver,Office,23,2015,M042,1.09,Yes,No
+P0053,"Thornton, Ortiz and Davenport","Unit 1272 Box 0583, DPO AA 50892",Calgary,Retail,73,1986,M028,1.84,Yes,Yes
+P0054,"Jackson, Smith and Bautista","336 Davis Plaza, Lake Eric, GA 68022",Vancouver,Apartment,63,2013,M014,1.45,No,No
+P0055,Tanner Inc,"165 Robinson Views, Lake Martin, RI 18223",Calgary,Apartment,33,1976,M004,1.69,Yes,Yes
+P0056,"Myers, Browning and Stephens","623 James Pass, Mortonborough, ID 59063",Montreal,Office,114,1977,M041,1.25,Yes,Yes
+P0057,"King, Hall and Decker","6839 Holden Crossing, Cookefurt, MO 32799",Vancouver,Apartment,67,2011,M004,1.37,No,No
+P0058,Martinez Group,"0515 Kara Trail Suite 067, Lake Bradleyville, SD 97307",Ottawa,Apartment,34,1991,M001,1.24,No,Yes
+P0059,Newman-Graham,"8644 Andrew Isle, Bowersbury, WI 86197",Ottawa,Retail,59,1976,M038,0.79,No,No
+P0060,Giles-Allison,"52701 Michael Passage Suite 337, East Sherryberg, NJ 90310",Calgary,Retail,101,1976,M002,1.58,Yes,No
+P0061,White-Williams,"19598 Hurst Estate, Laurenport, MD 19035",Calgary,Apartment,130,2002,M019,0.92,Yes,No
+P0062,Richardson PLC,"913 John Skyway Suite 502, Rossview, PA 86727",Ottawa,Retail,72,1997,M034,0.54,Yes,Yes
+P0063,Wolfe Ltd,"61996 Wyatt Estates Apt. 357, Port Sarah, MA 06791",Toronto,Retail,43,2011,M013,1.47,No,Yes
+P0064,Johnson Group,"574 Smith Fork Suite 172, New Thomas, PA 88825",Ottawa,Office,143,2006,M041,0.77,Yes,Yes
+P0065,Friedman Group,"95868 Jordan Rue Apt. 730, Lake Johnfurt, MA 87315",Toronto,Condo,60,2007,M039,1.91,No,Yes
+P0066,Lyons and Sons,"80519 Stephen Plains, New Michael, AL 03243",Montreal,Condo,34,1975,M023,1.93,Yes,No
+P0067,Moore Inc,"519 Bowers Wells Suite 114, South Kristinstad, CO 77268",Montreal,Condo,64,1993,M046,1.87,Yes,Yes
+P0068,Bennett-Hodge,"5949 Matthews Extensions, North Daniellemouth, OK 41969",Vancouver,Condo,84,1976,M023,1.06,Yes,No
+P0069,"Baldwin, Foley and Maxwell","8608 Nguyen Tunnel Suite 477, West Jeremyton, UT 69116",Calgary,Apartment,108,2018,M011,0.52,Yes,Yes
+P0070,Martin Group,"29301 Diaz Spurs, Alanchester, MT 18479",Vancouver,Retail,90,2000,M013,1.89,No,Yes
+P0071,Cardenas-Walker,"6749 Russell Glens Apt. 459, North Patrick, MN 94465",Vancouver,Condo,28,2006,M004,1.14,Yes,Yes
+P0072,Anderson and Sons,"42825 Jennifer Villages Apt. 710, Port Benjaminshire, NC 67413",Toronto,Condo,107,1980,M011,1.95,Yes,No
+P0073,"Bowers, Brooks and Flores","537 Roman Camp, Lake Danielfurt, GA 52639",Ottawa,Retail,148,2006,M040,1.95,No,Yes
+P0074,"Owens, Guerra and Edwards","3918 Jonathan River Suite 378, New Jameschester, OK 91026",Montreal,Condo,82,1978,M040,1.78,Yes,No
+P0075,"Bradley, Sanders and Kirk","PSC 7990, Box 2468, APO AA 88629",Calgary,Apartment,100,1985,M031,0.94,No,Yes
+P0076,"Mahoney, Scott and Franklin","6184 Bennett Estate, South Brandon, DC 20828",Vancouver,Office,52,1991,M041,1.08,Yes,Yes
+P0077,"Castaneda, Perry and Martinez","102 Clark Camp, South Anthony, KY 89865",Montreal,Retail,142,2012,M002,1.78,No,Yes
+P0078,Wong-Higgins,"35408 Walker Haven Suite 822, Santosshire, AZ 04030",Toronto,Office,24,1998,M035,0.98,Yes,No
+P0079,Campbell Ltd,"5865 Jacob Loop Suite 917, New Mary, CO 95981",Calgary,Retail,60,1979,M019,0.75,Yes,No
+P0080,"Collins, Graham and Martinez","61948 Patricia Crossroad Suite 341, Yorkshire, VA 78073",Ottawa,Condo,47,2008,M008,1.34,Yes,Yes
+P0081,Sullivan-Contreras,"5205 White Dale, Greenhaven, HI 84631",Toronto,Apartment,91,1980,M018,1.9,Yes,No
+P0082,"Cox, Weaver and Rodriguez","313 Richards Walks, North Lindsayfurt, NH 98747",Vancouver,Apartment,31,1996,M013,1.54,No,Yes
+P0083,Davidson-Wade,"234 Steven Plaza Apt. 492, New Marktown, NE 64114",Ottawa,Condo,52,1985,M012,1.36,Yes,Yes
+P0084,"Ashley, Fernandez and Torres","4786 Michael Skyway Apt. 095, Rushhaven, IL 32164",Vancouver,Condo,67,1990,M035,0.65,Yes,Yes
+P0085,"Hardin, Warner and Moon","PSC 0330, Box 8288, APO AA 42858",Ottawa,Office,81,2007,M025,1.42,No,Yes
+P0086,"Porter, Osborne and Taylor","USNS Huynh, FPO AP 13337",Vancouver,Condo,56,1983,M040,1.99,No,No
+P0087,Rios PLC,"639 Ruth Union, North Kellytown, ID 92608",Calgary,Apartment,118,1980,M042,0.71,Yes,No
+P0088,Sanchez-Cook,"5084 Mathew Oval Suite 238, West William, KS 94541",Montreal,Retail,123,1990,M044,1.28,No,No
+P0089,Johnson and Sons,"7094 Jessica Isle, New Robert, FL 83659",Ottawa,Condo,54,2003,M042,1.82,No,No
+P0090,"Alvarez, Gibbs and Gonzales","7602 Lori Row, Williamstad, MS 52769",Toronto,Condo,120,1977,M004,1.61,Yes,Yes
+P0091,Kelley Inc,"258 John Meadow Apt. 976, Port Brandi, HI 43147",Montreal,Condo,20,1994,M050,1.55,Yes,No
+P0092,Ramirez-Kramer,"USNV Vaughan, FPO AE 46685",Calgary,Retail,24,2010,M030,1.55,Yes,Yes
+P0093,Miller PLC,"19230 Molly Courts Apt. 036, Summersmouth, CO 78582",Vancouver,Office,122,1993,M043,1.04,No,No
+P0094,Gould PLC,"185 Jake Island, Vaughnberg, NM 36080",Vancouver,Office,46,2000,M049,0.94,No,No
+P0095,"Manning, Chang and Davis","52036 Stuart Springs Apt. 792, Fuentesville, HI 33166",Calgary,Condo,34,1977,M030,1.71,Yes,Yes
+P0096,Booker-Gillespie,"30339 Patricia Tunnel, Mollystad, MT 73402",Vancouver,Retail,109,1993,M005,1.72,Yes,Yes
+P0097,Beck Ltd,"7341 Shirley Rapids Apt. 503, Brianville, AK 12887",Vancouver,Apartment,61,1994,M025,1.8,No,Yes
+P0098,"Campbell, Johnson and Barnett","1055 Bryan Harbors, Jamesborough, IL 91210",Montreal,Retail,143,2006,M037,1.87,No,Yes
+P0099,Hill-Alexander,"535 Laurie Expressway, South Judith, MT 62433",Montreal,Retail,82,1981,M039,1.27,No,No
+P0100,Fisher-Mayo,"1696 Victoria Grove Apt. 400, Andersonfort, AR 49354",Toronto,Retail,115,2015,M037,1.25,Yes,Yes

@@ -1,0 +1,51 @@
+building_id,building_name,address,region,sqft,floors,year_built,has_solar,is_leed_certified,manager
+B0001,Richardson LLC,"PSC 5150, Box 8011, APO AP 77453",North,9270,3,1970,Yes,No,Gregory Cole
+B0002,Chavez Group,"4569 Dawn Glen, Amandahaven, MT 92072",North,9603,7,2013,No,Yes,Grant James
+B0003,Collins-Oneill,"035 Eric Alley, West Matthew, ND 44422",West,2860,4,1977,No,No,Melissa Williams
+B0004,"Walker, Reyes and Young","42415 Kimberly Lakes Apt. 426, Robertburgh, OK 01453",North,7390,9,1993,Yes,Yes,Courtney Ford
+B0005,Wilson Inc,"9105 Evans Ranch Suite 941, North Wendyside, AZ 48268",North,7226,3,1980,No,Yes,Karen Lawson
+B0006,"Brown, Chavez and Henderson","PSC 6022, Box 3420, APO AP 67658",East,7191,5,2020,Yes,No,Collin Curry MD
+B0007,Kim-Snow,"Unit 8782 Box 0611, DPO AE 37791",South,5772,3,1986,Yes,No,Nathan Martinez
+B0008,Martin Group,"287 Ho Track, New Michael, ID 62403",South,5092,7,1977,Yes,No,Mario Turner
+B0009,Herrera-Butler,"46520 Washington Club, Tamarafurt, AR 12435",North,7734,5,2004,Yes,No,Tiffany Salazar
+B0010,"Smith, Ochoa and Smith","26532 Kara Lodge Suite 696, New Angelaland, DE 43786",North,8265,9,2004,No,Yes,Matthew Ross
+B0011,"Morgan, Robinson and Gardner","77238 Blake Forges, Jameschester, NC 39256",South,2466,7,2002,Yes,Yes,Heather Smith
+B0012,Gallegos Inc,"06008 Brian Crossroad, North Jenniferhaven, ND 70970",East,7334,2,1974,No,Yes,Erik Howard
+B0013,"Brooks, Todd and Paul","6465 Allison Light Suite 522, West Veronica, NJ 59745",East,6426,4,2011,No,No,Patrick Adams
+B0014,"Ward, Villanueva and Webb","PSC 0675, Box 5563, APO AP 14973",South,7578,9,2008,No,No,Danielle Lara
+B0015,Matthews Group,"914 Michelle Run, Jennifershire, WV 22425",North,8231,2,2010,Yes,No,Amanda Edwards
+B0016,Williams-Jones,"9667 Wilkerson Shores Apt. 974, Changhaven, OK 97767",North,5444,9,1997,No,No,Kenneth Kent
+B0017,Howard Ltd,"213 Kayla Park, North Victorfurt, SC 15169",South,5171,5,1976,Yes,Yes,Kimberly Bailey
+B0018,Romero Group,"280 Sanchez Brook Suite 161, Port Robert, WA 85147",West,4919,2,1978,No,No,Julie Delgado
+B0019,Walker Ltd,"72948 Warren Wall, Eddietown, SD 10514",South,9831,4,1977,Yes,Yes,Scott Leon
+B0020,"Pierce, Salinas and Wells","074 Jackson Unions, Jennifershire, LA 38691",East,2130,7,1981,Yes,Yes,Phillip Cole
+B0021,Pham LLC,"66061 Stevens Rest Suite 983, South Nicholas, OR 19155",South,3685,8,2003,No,No,Peter Mcknight
+B0022,Golden PLC,"781 Alfred Tunnel Apt. 775, Johnsonmouth, SC 06075",East,9476,3,2002,No,Yes,Regina Boone
+B0023,House-Allen,"Unit 9797 Box 9816, DPO AA 37490",North,2769,1,2017,No,No,Sharon Harris
+B0024,Lee Inc,"492 Kara Road, Christopherport, IN 29173",West,4391,4,1992,No,No,Evan Strong
+B0025,Jenkins-Allen,"4439 Daniels Field Apt. 280, East Adam, MT 39245",East,7611,2,1993,No,Yes,Michael Martinez
+B0026,Wright LLC,"75047 Leslie Spring Apt. 562, West Michaelborough, MD 30724",South,9581,8,2006,Yes,Yes,Anthony Pineda
+B0027,Davis-Goodman,"1565 Lynn Falls, Melissashire, KY 46103",South,8949,4,2004,Yes,No,Kelly Jimenez
+B0028,"Li, Young and Hughes","8099 Myers Gateway, North William, MO 47904",South,4433,2,2013,No,Yes,Chloe Phillips
+B0029,Santos-Mcneil,"2750 Wagner Crescent Suite 761, Dicksonhaven, AK 58994",West,7311,6,2009,No,No,Seth Salas
+B0030,"Harris, Clark and Johnson","064 Wayne Locks Suite 038, West Amber, AR 50235",North,7051,6,1991,Yes,Yes,Jessica Holloway
+B0031,"Osborne, Bright and Vaughn","9520 Olson Mount, East Jasonside, MT 23597",East,8420,4,1996,No,Yes,Eric Smith
+B0032,Pearson Inc,"452 Brooke Plaza Suite 319, Jenkinsstad, MT 31041",East,3184,6,2004,Yes,No,Jason Madden
+B0033,Lee Ltd,"48327 Scott Place, Heatherville, WI 79628",East,6555,2,1970,Yes,No,Bobby Brown
+B0034,"Hall, Miles and Walton","564 Smith Route Apt. 680, New Carlosshire, ID 56807",East,5385,2,2004,No,Yes,Joseph Padilla
+B0035,"Johnson, Sims and Robinson","3816 Ashley Parkways Suite 492, Blakefort, WA 06005",East,6117,4,2006,No,No,Jessica Miller
+B0036,"Berg, Barnes and Nguyen","2584 Nina Ford Apt. 082, Contrerashaven, WV 72827",North,8396,8,2016,No,Yes,Luis Thomas
+B0037,Anderson LLC,"224 Smith Path, Bautistaberg, GA 08639",West,6843,7,1983,No,Yes,Samantha Lambert DVM
+B0038,Riley-Reed,"94326 Andrea Port Apt. 706, Port Anthonyview, NM 30358",West,4904,9,1972,Yes,Yes,Adam Smith
+B0039,Holmes-Hernandez,"7907 Lynch Parks Apt. 921, Adamsside, DE 25117",West,9728,8,1970,No,No,Steven Phillips
+B0040,Robinson-Richardson,"86001 Brandon Loop, Michaelland, FL 89421",South,2474,5,1974,Yes,No,Brandy Andrade
+B0041,Eaton Inc,"159 Miles Valleys Suite 379, East Donna, AK 36877",North,3082,2,1995,Yes,Yes,Paula Williams
+B0042,Charles Inc,"86843 English Light, Jessetown, ID 88380",West,4558,5,1983,No,Yes,Scott Montgomery
+B0043,"Morgan, Gregory and Cole","118 Anderson Pines Suite 510, New Christopherfurt, CT 10607",South,9849,8,2008,No,Yes,Maria Alvarez
+B0044,Johnson-Jones,"3572 Leslie Garden, New Lindaland, VT 32678",North,4047,9,1996,No,No,Thomas Gonzales
+B0045,Salas LLC,"4501 Moore Points Suite 285, Harringtonborough, OR 01916",West,9643,9,1978,No,No,Paula Vance
+B0046,Cline-Newman,"45125 Miranda Prairie, Rachelburgh, VA 74866",North,4747,1,1984,Yes,No,Alicia Velez
+B0047,Lee Group,"7763 Helen Ford, North Christopherburgh, HI 19304",North,2975,9,1984,Yes,No,Courtney Palmer
+B0048,Hutchinson Ltd,"8515 Cruz Estates, Lake Brandi, AK 89570",North,3806,7,1995,Yes,Yes,Lisa Gordon
+B0049,Dean LLC,"2634 Schneider Path, Lake Jacob, NY 63299",West,2189,9,2011,Yes,Yes,Sharon Watson
+B0050,Cruz-Cooke,"6270 Jacqueline Rapids, North Cherylstad, ME 68197",South,9101,8,1982,No,Yes,Steven Oconnell
